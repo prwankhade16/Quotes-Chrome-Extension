@@ -1,0 +1,16 @@
+body {
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+P {
+    margin: auto 10px;
+    font-size: 20px;
+    color: black;
+    border-radius: 20px;
+    border: 2px solid red;
+    padding: 10px;
+}
