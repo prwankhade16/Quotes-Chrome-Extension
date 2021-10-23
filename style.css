@@ -1,9 +1,15 @@
 body {
-    width: 250px;
-    height: 250px;
     background-color: aqua;
     display: flex;
+    position:absolute;
+    width:780px;
+    height:650px;
+    left:50%;
+    top:50%;
+    margin-left:-390px;
+    margin-top:-325px;
     justify-content: center;
+    align-items: center;
 }
 
 P {
@@ -12,5 +18,5 @@ P {
     color: black;
     border-radius: 20px;
     border: 2px solid red;
-    padding: 10px;
+    padding: 20px;
 }
